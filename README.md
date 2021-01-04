@@ -1,6 +1,6 @@
-#Examen Sistema Solar
+# Examen Sistema Solar
 
-## consigna
+## Consigna
 
 En una galaxia lejana, existen tres civilizaciones. Vulcanos, Ferengis y Betasoides. Cada
 civilización vive en paz en su respectivo planeta.
